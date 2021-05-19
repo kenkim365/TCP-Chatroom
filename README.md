@@ -13,7 +13,7 @@ Allows the user to join an already existing chatroom or create a chatroom if roo
 
 /message
 
-Allows the user to send a message to the chatroom they are currently connected to.
+Allows the user to send a message to the chatroom they are currently connected to where all clients connected can view.
 *must be in a chatroom to work*
 
 /rooms
