@@ -1,5 +1,7 @@
 # TCP-Chatroom
 
+LIST OF COMMANDS
+
 /nickname 
 
 Allows the user to set their name to something of their own choice. Nickname by default is "anonymous"
@@ -7,10 +9,12 @@ Allows the user to set their name to something of their own choice. Nickname by 
 /join
 
 Allows the user to join an already existing chatroom or create a chatroom if room with specified name does not exist.
+*create/join a chatroom using the following format /join #nameofchatroom
 
 /message
 
-Allows the user to send a message to the chatroom they are currently connected to. *must be in a chatroom to work
+Allows the user to send a message to the chatroom they are currently connected to.
+*must be in a chatroom to work
 
 /rooms
 
